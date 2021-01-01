@@ -1,5 +1,6 @@
 # Stability-simulations
 Course Project Thermodynamics of materials- Simulations to predict stability of different Iron Oxides
+Codes are available both in Matlab and Python programming languages.
 
 Please Refer this to understand the theory behind and the Readme.pdf for getting info about the codes.
 
